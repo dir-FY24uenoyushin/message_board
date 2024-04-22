@@ -14,7 +14,7 @@
                 ${param.content}
             </div>
             <div id="footer">
-                by YUshin Ueno.
+                by Yushin Ueno.
             </div>
         </div>
     </body>
